@@ -3,8 +3,6 @@ import subprocess
 import os
 import colorama
 from colorama import Fore
-import spotdl
-spotdl
 import time
 colorama.init()
 def check_and_install_library(library_name):
